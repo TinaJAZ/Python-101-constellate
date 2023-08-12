@@ -11,3 +11,4 @@ _build/*
 examples/*
 !examples/*.ipynb
 venv/*
+new-file-2.txt
